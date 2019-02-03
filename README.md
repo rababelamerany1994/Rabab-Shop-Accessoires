@@ -79,7 +79,7 @@ DB_PORT=27017 \
 DB_NAME=shop \
 DB_USER=user \
 DB_PASS=password \
-# or SET a DB_URL with mongodb connection string(https://docs.mongodb.com/manual/reference/connection-string/)
+#or SET a DB_URL with mongodb connection string(https://docs.mongodb.com/manual/reference/connection-string/)
 DB_URL=mongodb://db1.example.net:27017,db2.example.net:2500/?replicaSet=test
 npm start
 
